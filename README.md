@@ -1,5 +1,5 @@
 # Skript-NewbieClock
-[![License](https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.html) [![Pull Requests](https://img.shields.io/github/issues-pr-closed/katorlys/Skript-NewbieClock?style=for-the-badge) [![Issues](https://img.shields.io/github/issues-closed/katorlys/Skript-NewbieClock?style=for-the-badge)
+[![License](https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.html) ![Pull Requests](https://img.shields.io/github/issues-pr-closed/katorlys/Skript-NewbieClock?style=for-the-badge) ![Issues](https://img.shields.io/github/issues-closed/katorlys/Skript-NewbieClock?style=for-the-badge)
 
 ## 机制
 本 Skript 已达到定制者的以下要求：<br>
@@ -13,6 +13,7 @@
 这个钟，不能被扔掉, 不能被换格子，不能以任何方式离开物品栏第一格, 直到玩家完成新手教学升级到Default组为止<br>
 升级后这个钟消失,或者可以被扔掉。<br>
 
+## 预览
 <img align="center" src="screenshot.png"><br>
 
 ## 说明
