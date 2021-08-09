@@ -1,0 +1,27 @@
+on skript load:
+    send "&b&lNewbieClock >> &r&7NewbieClock(by Katorly) enabled!" to console
+
+on skript stop:
+    send "&b&lNewbieClock >> &r&7NewbieClock disabled!" to console
+
+on click holding a clock:
+    if player has permission "newbieclock.new":
+        if player is not op:
+            make event-player say "/warp new"
+            send message "&b&lWEE-AXE >> &r&7你已被传送到新手教学区域." to event-player
+
+on player join:
+    if player has permission "newbieclock.new":
+        if player is not op:
+            clear slot 0 of player
+            give a clock named "&e&l传送到新手教学区域" with lore "&r&7在新手教学过程中迷路了?" and "&r&7右键传送回&f新手教学&7区域." to player
+
+on inventory click:
+    if clicked slot is slot 0 of player:
+        if player has permission "newbieclock.new":
+            cancel event if the player is not op
+
+on drop:
+    if event-item is a clock named "&e&l传送到新手教学区域" with lore "&r&7在新手教学过程中迷路了?" and "&r&7右键传送回&f新手教学&7区域.":
+        if player has permission "newbieclock.new":
+            cancel event if the player is not op
