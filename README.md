@@ -1,5 +1,5 @@
 # Skript-NewbieClock
-[![License](https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.html) ![Pull Requests](https://img.shields.io/github/issues-pr-closed/katorlys/Skript-NewbieClock?style=for-the-badge) ![Issues](https://img.shields.io/github/issues-closed/katorlys/Skript-NewbieClock?style=for-the-badge)
+[![License](https://img.shields.io/badge/license-GPLv3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.html) [![Pull Requests](https://img.shields.io/github/issues-pr-closed/katorlys/Skript-NewbieClock?style=flat-square)](https://github.com/katorlys/Skript-NewbieClock/pulls) [![Issues](https://img.shields.io/github/issues-closed/katorlys/Skript-NewbieClock?style=flat-square)](https://github.com/katorlys/Skript-NewbieClock/issues) [![Lines](https://img.shields.io/tokei/lines/github/katorlys/Skript-NewbieClock?style=flat-square)](https://github.com/katorlys/Skript-NewbieClock)
 
 ## 机制
 本 Skript 已达到定制者的以下要求：<br>
